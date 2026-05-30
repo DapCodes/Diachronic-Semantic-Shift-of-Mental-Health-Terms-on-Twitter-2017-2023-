@@ -325,7 +325,20 @@ python3 src/04_report.py           # ~2 min
 
 ## License
 
-MIT License — free to use, modify, and share with attribution.
+**MIT License** — This project is completely free and open source.
+
+You are free to:
+
+- ✅ **Use** — Use this code for any purpose (personal, commercial, educational, etc.)
+- ✅ **Modify** — Change, improve, and customize the code as you wish
+- ✅ **Distribute** — Share the code with others, with or without modifications
+- ✅ **Private Use** — Use the code privately without sharing
+
+**Conditions:**
+
+- Include a copy of this license and attribution to the original author
+
+For the full MIT License text, see the [LICENSE](LICENSE) file in this repository.
 
 ---
 
