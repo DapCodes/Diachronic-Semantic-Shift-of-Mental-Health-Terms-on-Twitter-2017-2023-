@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# Data (too large for GitHub)
+data/raw/
+data/processed/
+*.zip
+*.csv
+
+# Models (too large for GitHub)
+models/
+*.model
+*.pkl
+*.npy
+
+# Results images (keep these)
+# results/ ← intentionally NOT ignored
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
